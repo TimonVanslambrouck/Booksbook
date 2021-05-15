@@ -96,7 +96,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
         addWithoutTemplateBooks()
     }
 
-    // source: https://github.com/journeyapps/zxing-android-embedded
+    // Source for Barcode Scanner: https://github.com/journeyapps/zxing-android-embedded
 
     private fun scanCode(){
        val integrator = IntentIntegrator(this)
