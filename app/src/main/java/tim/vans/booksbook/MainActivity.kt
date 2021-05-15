@@ -28,6 +28,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setTitle(R.string.all_books)
+
+        // add template will clear the database and make it start with 3 books
+        // add without template will check if there's anything in the database and if not will display a button that says "Find some books"
         addTemplateBooks()
         // addWithoutTemplateBooks()
     }
@@ -78,8 +81,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
         val myAdapter = Adapter(books)
         recyclerView.layoutManager = LinearLayoutManager(baseContext)
         recyclerView.adapter = myAdapter
-
-        buttonCheck(books)
     }
 
 

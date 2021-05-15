@@ -35,10 +35,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a1332-701b-4049-a41c-99c335e9b7f2" name="Default Changelist" comment="added Sources to README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/tim/vans/booksbook/Adapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/tim/vans/booksbook/Adapter.kt" afterDir="false" />
+    <list default="true" id="444a1332-701b-4049-a41c-99c335e9b7f2" name="Default Changelist" comment="updates sources">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/tim/vans/booksbook/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/tim/vans/booksbook/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621095428744</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updates sources">
+      <created>1621095748691</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621095748691</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +327,8 @@
     <MESSAGE value="project" />
     <MESSAGE value="exrea commit" />
     <MESSAGE value="added Sources to README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Sources to README.md" />
+    <MESSAGE value="updates sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates sources" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="218" key="#Inspections" timestamp="1620675804489">
@@ -416,10 +421,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="448" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620052557110" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1621095430961">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1621095750602">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1621095430961" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1621095750602" />
     <state width="702" height="543" key="XDebugger.FullValuePopup" timestamp="1620904047748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
