@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
 
         if (books.isEmpty()){
             button.setOnClickListener {
+                // Source: https://www.javatpoint.com/android-intent-tutorial#:~:text=Android%20Intent%20is%20the%20message,intent%20is%20intention%20or%20purpose.
                 val url = "https://www.goodreads.com/book"
                 val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
                 startActivity(intent)

@@ -9,6 +9,8 @@ import androidx.recyclerview.widget.RecyclerView
 import tim.vans.booksbook.data.Book
 import kotlin.math.log
 
+// Source: Lesson example code
+
 class Adapter(private val dataSet: List <Book>):
     RecyclerView.Adapter<Adapter.ViewHolder>(){
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
