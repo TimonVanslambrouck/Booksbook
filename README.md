@@ -2,7 +2,7 @@
 
 By Timon Vanslambrouck
 
-Sources: 
+Sources: </br>
 Source for UNUSED_PARAMETER: https://stackoverflow.com/a/49872468 </br>
 Source for Barcode Scanner: https://github.com/journeyapps/zxing-android-embedded </br>
 Source for Android Volley: https://developer.android.com/training/volley/simple </br>
