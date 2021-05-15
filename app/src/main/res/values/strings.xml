@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Booksbook</string>
+    <string name="all_books">All Books</string>
+    <string name="picture_of_book">Picture of book</string>
+    <string name="title_book">Title Book</string>
+    <string name="opinion">Opinion book</string>
+    <string name="maxScore" translatable="false">5/5</string>
+    <string name="book_pic">book pic</string>
+    <string name="fab_content_desc" translatable="false">add button</string>
+    <string name="scan_add">Scan add</string>
+    <string name="manual_add">Manual add</string>
+    <string name="back">Back</string>
+    <string name="scan_now">Scan now</string>
+    <string name="background_picture">background picture</string>
+    <string name="scanning_book">Scanning book</string>
+    <string name="book_author">Author Book</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="book_question">Is this your book?</string>
+    <string name="ISBN_question1">No book found, is this code the same written below the barcode?</string>
+    <string name="ISBN_question2">Is this code the same written below the barcode?</string>
+    <string name="again_question">Would you like to try again?</string>
+    <string name="again">Try again</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="scanned">Scanned</string>
+    <string name="required">Required</string>
+    <string name="score" translatable="false">Score …/5</string>
+    <string name="submit">Submit</string>
+    <string name="find_books_to_read">Find books to read!</string>
+    <string name="scan_barcode">Scan a barcode</string>
+
+</resources>

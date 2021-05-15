@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <include layout="@layout/background"/>
+
+    <!--SOURCE: https://stackoverflow.com/a/31696644 -->
+
+    <TextView
+        android:id="@+id/helpText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:id="@+id/scanButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scan_now"
+        android:layout_toLeftOf="@+id/helpText"
+        android:layout_centerInParent="true"
+        android:layout_margin="15dp"
+        />
+
+
+    <Button
+        android:id="@+id/manualAddButton"
+        android:onClick="goToManualButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/manual_add"
+        android:layout_toRightOf="@+id/helpText"
+        android:layout_centerInParent="true"
+        android:layout_margin="15dp"
+        />
+
+    <Button
+        android:id="@+id/cancel_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:onClick="goHome"
+        android:text="@string/back"/>
+</RelativeLayout>
