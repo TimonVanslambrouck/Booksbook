@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\card_item.xml",
+        "source": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\src\\main\\res\\layout-land\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\background.xml",
+        "source": "C:\\Users\\timon\\AndroidStudioProjects\\Booksbook\\app\\src\\main\\res\\layout-land\\background.xml"
+    }
+]

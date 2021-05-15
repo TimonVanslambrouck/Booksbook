@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ISBN_question1">Geen boek gevonden, is deze code dezelfde als onder de barcode?</string>
+    <string name="ISBN_question2">Is deze code dezelfde als onder de barcode?</string>
+    <string name="again">Opnieuw proberen</string>
+    <string name="again_question">Zou u graag opnieuw proberen?</string>
+    <string name="all_books">Alle boeken</string>
+    <string name="app_name">BoekenBoek</string>
+    <string name="back">Terug</string>
+    <string name="background_picture">achtergrond foto</string>
+    <string name="book_author">Auteur Boek</string>
+    <string name="book_pic">boek foto</string>
+    <string name="book_question">Is dit uw boek?</string>
+    <string name="cancelled">Geannuleerd</string>
+    <string name="find_books_to_read">Vind boeken om te lezen!</string>
+    <string name="manual_add">Manuele toevoeg</string>
+    <string name="no">Nee</string>
+    <string name="opinion">Opinie Boek</string>
+    <string name="picture_of_book">Foto van boek</string>
+    <string name="required">Verplicht</string>
+    <string name="scan_add">Scan toevoeg</string>
+    <string name="scan_barcode">Scan een barcode</string>
+    <string name="scan_now">Scan nu</string>
+    <string name="scanned">Gescanned</string>
+    <string name="scanning_book">Scannen boek</string>
+    <string name="submit">Indienen</string>
+    <string name="title_book">Titel Boek</string>
+    <string name="yes">Ja</string>
+</resources>

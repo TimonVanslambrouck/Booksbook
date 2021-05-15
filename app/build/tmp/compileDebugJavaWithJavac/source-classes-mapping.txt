@@ -1,0 +1,21 @@
+tim/vans/booksbook/BuildConfig.java
+ tim.vans.booksbook.BuildConfig
+tim/vans/booksbook/data/BookDatabase_Impl.java
+ tim.vans.booksbook.data.BookDatabase_Impl
+ tim.vans.booksbook.data.BookDatabase_Impl$1
+tim/vans/booksbook/data/BookDao_Impl.java
+ tim.vans.booksbook.data.BookDao_Impl
+ tim.vans.booksbook.data.BookDao_Impl$1
+ tim.vans.booksbook.data.BookDao_Impl$2
+tim/vans/booksbook/databinding/CardItemBinding.java
+ tim.vans.booksbook.databinding.CardItemBinding
+tim/vans/booksbook/databinding/ManualAddBinding.java
+ tim.vans.booksbook.databinding.ManualAddBinding
+tim/vans/booksbook/databinding/ActivityMainBinding.java
+ tim.vans.booksbook.databinding.ActivityMainBinding
+tim/vans/booksbook/databinding/AddButtonBinding.java
+ tim.vans.booksbook.databinding.AddButtonBinding
+tim/vans/booksbook/databinding/BackgroundBinding.java
+ tim.vans.booksbook.databinding.BackgroundBinding
+tim/vans/booksbook/databinding/ActivityScanBinding.java
+ tim.vans.booksbook.databinding.ActivityScanBinding
